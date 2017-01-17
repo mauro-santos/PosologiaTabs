@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">PosologiaTabs</string>
+    <string name="app_name">Posologia</string>
+
+    <string name="one">Fragmento para Pessoa</string>
+    <string name="two">Fragmento para Medicamento</string>
+    <string name="three">Fragmento para Posologia</string>
 </resources>
